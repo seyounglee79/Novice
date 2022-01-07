@@ -1,1 +1,23 @@
-안녕하세요.
+C:\Users\komtokki>git
+
+C:\Users\komtokki>git --version
+
+C:\Users\komtokki>git config --global user.name seyounglee79
+
+C:\Users\komtokki>git config --global user.email komtokki@hotmail.com
+
+C:\Users\komtokki>cd..
+
+C:\Users>cd..
+
+C:\>cd git-hub
+C:\git-hub>cd Novice
+
+C:\git-hub\Novice>git add practice.txt
+
+C:\git-hub\Novice>git commit -m "add Text File [practice.txt]
+[main (root-commit) d05072a] add Text File [practice.txt]
+ 1 file changed, 1 insertion(+)
+ create mode 100644 practice.txt
+
+C:\git-hub\Novice>git push
